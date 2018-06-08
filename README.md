@@ -12,6 +12,8 @@ At tyrion/playground
 ```sh
 $ npm link tyrion
 ```
+### Run tests
+
 At tyrion/playground
 ```sh
 $ npm test
